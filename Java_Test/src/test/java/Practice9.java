@@ -67,11 +67,5 @@ public class Practice9 {
 
 
 
-
-
-
-
-
-
     }
 }
